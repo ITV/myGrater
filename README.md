@@ -4,4 +4,4 @@ This is a holding page for the myGrater tool as demoed at the London Apple Admin
 
 https://youtu.be/jrAaxfvzdaU
 
-Updates will be posted here and we would apreciate feedback or ideas based on the video.
+Updates will be posted here and we would appreciate feedback or ideas based on the video.
